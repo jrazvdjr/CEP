@@ -1,0 +1,12 @@
+{
+  "name": "projetocep",
+  "version": "1.0.0",
+  "description": "Projeto tem como objetivo a leitura de uma API via front e leitura da respostas das informações",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "keywords": [],
+  "dataUltimaAtualização": "Yvan",
+  "license": "ISC"
+}
